@@ -1,0 +1,32 @@
+[
+	{
+		"key": "CAM-01",
+		"latitude": -22.89,
+		"longitude": -47.05,
+		"name": "Campinas"
+	},
+	{
+		"key": "REC-02",
+		"latitude": -8.05,
+		"longitude": -34.88,
+		"name": "Recife"
+	},
+	{
+		"key": "SCS-01",
+		"latitude": -23.50,
+		"longitude": -46.61,
+		"name": "Santana"
+	},
+	{
+		"key": "STA-02",
+		"latitude": -23.65,
+		"longitude": -46.53,
+		"name": "Santo Andre"
+	},
+	{
+		"key": "SAU-03",
+		"latitude": -23.62,
+		"longitude": -46.63,
+		"name": "Saúde"
+	}
+]
